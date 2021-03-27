@@ -1,3 +1,3 @@
 # Functions Dealing w/ Binary
-##intToBinary
+## intToBinary
 Take the argument of an integer, then returns that integer in binary.
